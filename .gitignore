@@ -1,0 +1,12 @@
+/node_modules
+/build
+.env
+
+# Backend
+/backend/__pycache__
+/backend/.venv
+/backend/*.sqlite3
+
+# General
+.DS_Store
+.vscode
